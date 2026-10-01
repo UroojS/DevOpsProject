@@ -14,5 +14,10 @@ steps:
     displayName: 'Restore Packages'
 
   - script: dotnet build --configuration Release
-    displayName: 'Build Application'
+    displayName: 'Build DevOps Application'
+
 # Testing automatic CI trigger
+
+   
+
+
